@@ -1,4 +1,4 @@
-# 🚀 Sales Data Engineering Project (Azure Cloud)
+# 🚀 Enterprise Data Pipeline Automation (Azure Cloud)
 
 ## 📘 Project Overview
 This project demonstrates an **end-to-end data engineering pipeline** implemented using the **Azure ecosystem**.  
